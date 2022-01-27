@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 
 - 📫 Reach me at **xyjiang970@gmail.com**
-- ⚡ Fun fact, my current powerlifting PRs are: **S:365, B:215, D:465**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
