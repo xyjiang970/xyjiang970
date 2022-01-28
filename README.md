@@ -2,7 +2,7 @@
 
 - 📫 Reach me at **xyjiang970@gmail.com**
 
-Data nerd who also dabbles in Powerlifting.
+Data nerd who also dabbles in Powerlifting (PRs in lbs- S:345, B:215, D:465)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
