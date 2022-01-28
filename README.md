@@ -2,6 +2,8 @@
 
 - 📫 Reach me at **xyjiang970@gmail.com**
 
+Data nerd who also dabbles in Powerlifting.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/xyjiang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xyjiang-linkedin" height="30" width="40"/>
