@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 
-- 📫 Reach me at **xyjiang970@gmail.com**
+📫 Reach me at **xyjiang970@gmail.com**
 
 Data nerd who also dabbles in Powerlifting and Photography.
 
