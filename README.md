@@ -34,4 +34,4 @@ Data nerd who also dabbles in Powerlifting and Photography.
 
 <br></br>
 
-https://img.shields.io/github/last-commit/xyjiang970/xyjiang970/main?label=Last%20updated&style=flat)](https://github.com/xyjiang970/xyjiang970/commits
+https://img.shields.io/github/last-commit/xyjiang970/xyjiang970/main?label=Last%20updated&style=flat
