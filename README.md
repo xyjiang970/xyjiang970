@@ -13,6 +13,7 @@ Data nerd who also dabbles in Powerlifting and Photography.
 <img align="left" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
 
 <br></br>
+<br></br>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
