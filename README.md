@@ -19,9 +19,10 @@ Data nerd who also dabbles in Powerlifting and Photography.
 
 <h2 align="left">Connect with me:</h2>
 <a href="https://www.linkedin.com/in/xyjiang/">
-<img align="left" alt="LinkedIn" width="55px" src="[https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)"/>
+<img align="left" alt="LinkedIn" width="55px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/>
 </a>
 
+</br></br>
 </br></br>
 
 <p align="left">
