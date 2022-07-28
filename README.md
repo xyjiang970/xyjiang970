@@ -4,15 +4,16 @@
 
 Data nerd who also dabbles in Powerlifting and Photography.
 
+<br></br>
+
 <h2 align="left">Languages and Tools:</h2>
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript.svg"/>
+<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"/>
 <img align="left" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
 
-
-
 <br></br>
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/xyjiang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xyjiang-linkedin" height="30" width="40"/>
