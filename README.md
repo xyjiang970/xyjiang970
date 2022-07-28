@@ -30,4 +30,4 @@ Data nerd who also dabbles in Powerlifting and Photography.
 <br></br>
 <br></br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyjiang970&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyjiang970&show_icons=true&theme=nightowl&layout=compact)
