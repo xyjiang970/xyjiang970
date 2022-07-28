@@ -25,14 +25,6 @@ Data nerd who also dabbles in Powerlifting and Photography.
 <img align="left" alt="VSCO" width="55px" src="https://www.svgrepo.com/show/306943/vsco.svg"/>
 </a>
 
-</br></br>
-</br></br>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/xyjiang/" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="xyjiang-linkedin" width="40"/>
-<a href="https://vsco.co/xyjiang970/gallery" target="blank"><img align="center" src="https://www.svgrepo.com/show/306943/vsco.svg" alt="xyjiang-vsco" height="30" width="40"/>
-</p>
-
 <br></br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyjiang970&show_icons=true&hide_border=true)
