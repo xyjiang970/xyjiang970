@@ -4,7 +4,8 @@
 
 Data nerd who also dabbles in Powerlifting and Photography.
 
-
+<br></br>
+<br></br>
 
 <h2 align="left">Languages and Tools:</h2>
 <img align="left" alt="Python" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
@@ -16,7 +17,8 @@ Data nerd who also dabbles in Powerlifting and Photography.
 <img align="left" alt="Bash" width="55px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>
 <img align="left" alt="MSSQL" width="55px" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
 
-
+<br></br>
+<br></br>
 
 <h2 align="left">Connect with me:</h2>
 <a href="https://www.linkedin.com/in/xyjiang/">
@@ -26,6 +28,7 @@ Data nerd who also dabbles in Powerlifting and Photography.
 <img align="left" alt="VSCO" width="55px" src="https://www.svgrepo.com/show/306943/vsco.svg"/>
 </a>
 
-
+<br></br>
+<br></br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyjiang970&show_icons=true&hide_border=true)
