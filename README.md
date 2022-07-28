@@ -12,6 +12,8 @@ Data nerd who also dabbles in Powerlifting and Photography.
 <img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"/>
 <img align="left" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyjiang970&show_icons=true&hide_border=true)]
+
 <br></br>
 <br></br>
 
