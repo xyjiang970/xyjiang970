@@ -1,7 +1,7 @@
 <!--<h1 align="center">Hi 👋, I'm Jason</h1>-->
 
 <p align="center">
-<img alt="Hi, I'm Jason" src="https://github.com/xyjiang970/xyjiang970/blob/main/assets/github_intro.gif" height=200>
+<img alt="Hi, I'm Jason" src="https://github.com/xyjiang970/xyjiang970/blob/main/assets/github_intro.gif" height=350 width=450>
 </p>
 
 Data nerd who also dabbles in Powerlifting and Photography.
@@ -28,7 +28,6 @@ Data nerd who also dabbles in Powerlifting and Photography.
 <a href="https://www.linkedin.com/in/xyjiang/">
 <img align="left" alt="VSCO" width="55px" src="https://www.svgrepo.com/show/306943/vsco.svg">
 </a>
-📫 Reach me at **xyjiang970@gmail.com**
 
 <br></br>
 <br></br>
@@ -38,3 +37,5 @@ Data nerd who also dabbles in Powerlifting and Photography.
 <br></br>
 
 <img align="left" alt='Last Update Shield' src="https://img.shields.io/github/last-commit/xyjiang970/xyjiang970/main?label=Last%20updated&style=flat">
+
+📫 Reach me at **xyjiang970@gmail.com**
