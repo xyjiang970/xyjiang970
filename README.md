@@ -12,8 +12,6 @@ Data nerd who also dabbles in Powerlifting and Photography.
 <img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"/>
 <img align="left" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyjiang970&show_icons=true&hide_border=true)]
-
 <br></br>
 <br></br>
 
@@ -22,3 +20,7 @@ Data nerd who also dabbles in Powerlifting and Photography.
 <a href="https://www.linkedin.com/in/xyjiang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xyjiang-linkedin" height="30" width="40"/>
 <a href="https://vsco.co/xyjiang970/gallery" target="blank"><img align="center" src="https://www.svgrepo.com/show/306943/vsco.svg" alt="xyjiang-vsco" height="30" width="40"/>
 </p>
+
+<br></br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyjiang970&show_icons=true&hide_border=true)
