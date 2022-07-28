@@ -4,6 +4,7 @@
 
 Data nerd who also dabbles in Powerlifting and Photography.
 
+<br></br>
 
 <h2 align="left">Languages and Tools:</h2>
 <img align="left" alt="Python" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
