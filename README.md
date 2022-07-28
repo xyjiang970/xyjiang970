@@ -21,6 +21,9 @@ Data nerd who also dabbles in Powerlifting and Photography.
 <a href="https://www.linkedin.com/in/xyjiang/">
 <img align="left" alt="LinkedIn" width="55px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/>
 </a>
+<a href="https://www.linkedin.com/in/xyjiang/">
+<img align="left" alt="VSCO" width="55px" src="https://www.svgrepo.com/show/306943/vsco.svg"/>
+</a>
 
 </br></br>
 </br></br>
