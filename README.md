@@ -11,7 +11,7 @@ Data nerd who also dabbles in Powerlifting and Photography.
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Jupyter" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/>
 <img align="left" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
-<img align="left" alt="AWS" width="55px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img align="left" alt="AWS" width="70px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img align="left" alt="VSCode" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"/>
 
 <br></br>
