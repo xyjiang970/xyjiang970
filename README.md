@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jason</h1>
+<!--<h1 align="center">Hi 👋, I'm Jason</h1>-->
+
+<img aligh="center" alt="Hi, I'm Jason" src="https://github.com/xyjiang970/xyjiang970/blob/main/assets/github_intro.gif" height=500>
 
 📫 Reach me at **xyjiang970@gmail.com**
 
