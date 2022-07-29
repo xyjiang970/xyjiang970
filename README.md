@@ -1,7 +1,7 @@
 <!--<h1 align="center">Hi 👋, I'm Jason</h1>-->
 
 <p align="center">
-<img alt="Hi, I'm Jason" src="https://github.com/xyjiang970/xyjiang970/blob/main/assets/github_intro.gif" height=300>
+<img alt="Hi, I'm Jason" src="https://github.com/xyjiang970/xyjiang970/blob/main/assets/github_intro.gif" height=250>
 </p>
 
 <p align="center">
