@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jason</h1>
+<!--<h1 align="center">Hi 👋, I'm Jason</h1>-->
 
-<!--<p align="center">
+<p align="center">
 <img alt="Hi, I'm Jason" src="https://github.com/xyjiang970/xyjiang970/blob/main/assets/github_intro.gif" height=250>
-</p>-->
+</p>
 
 <p align="center">
 Data nerd 🤓 who also dabbles in Powerlifting 🏋️ and Photography 📸
