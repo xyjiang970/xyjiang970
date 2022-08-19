@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Data nerd 🤓 who also dabbles in Powerlifting 🏋️ and Photography 📸. Currently learning HTML, CSS, and JavaScript.
+Data nerd 🤓 who also dabbles in Web Dev 🌐, Powerlifting 🏋️, and Photography 📸.
 <p>
  
 <br></br>
