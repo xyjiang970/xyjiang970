@@ -42,5 +42,7 @@ Data nerd 🤓 who also dabbles in Web Dev 🌐, Powerlifting 🏋️, and Photo
 <br></br>
 
 <img align="left" alt='Last Update Shield' src="https://img.shields.io/github/last-commit/xyjiang970/xyjiang970/main?label=Last%20updated&style=flat">
+
 <br>
+
 📫 Reach me at **xyjiang970@gmail.com**
