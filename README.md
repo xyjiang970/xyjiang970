@@ -1,5 +1,3 @@
-<!--<h1 align="center">Hi 👋, I'm Jason</h1>-->
-
 <p align="center">
 <img alt="Hi, I'm Jason" src="https://github.com/xyjiang970/xyjiang970/blob/main/assets/intro.gif">
 </p>
@@ -10,7 +8,7 @@ Data nerd 🤓 who also dabbles in Web Dev 🌐, Powerlifting 🏋️, and Photo
 
 <p>&nbsp;</p>
 
-##Languages and Tools:
+## Languages and Tools:
 <img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
 <img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
