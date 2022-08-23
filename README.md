@@ -34,13 +34,13 @@ Data nerd 🤓 who also dabbles in Web Dev 🌐, Powerlifting 🏋️, and Photo
 <img align="left" alt="VSCO" width="50px" src="https://www.svgrepo.com/show/306943/vsco.svg">
 </a>
 
-<br></br>
-<br></br>
+<br>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyjiang970&show_icons=true&theme=tokyonight)
 
 <br></br>
 
 <img align="left" alt='Last Update Shield' src="https://img.shields.io/github/last-commit/xyjiang970/xyjiang970/main?label=Last%20updated&style=flat">
-
+<br>
 📫 Reach me at **xyjiang970@gmail.com**
