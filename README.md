@@ -26,7 +26,7 @@ Data nerd 🤓 who also dabbles in Web Dev 🌐, Powerlifting 🏋️, and Photo
 
 <p>&nbsp;</p>
 
-<h2>Connect with me:</h2>
+## Connect with me:
 <a href="https://www.linkedin.com/in/xyjiang/">
 <img align="left" alt="LinkedIn" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
 </a>
