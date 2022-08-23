@@ -8,7 +8,7 @@
 Data nerd 🤓 who also dabbles in Web Dev 🌐, Powerlifting 🏋️, and Photography 📸.
 <p>
 
-<br/>
+<p>&nbsp;</p>
 
 <h2 align="left">Languages and Tools:</h2>
 <img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -22,9 +22,7 @@ Data nerd 🤓 who also dabbles in Web Dev 🌐, Powerlifting 🏋️, and Photo
 <img align="left" alt="Bash" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 <img align="left" alt="MSSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 
-<br/>
-
-<br/>
+<p>&nbsp;</p>
 
 <h2 align="left">Connect with me:</h2>
 <a href="https://www.linkedin.com/in/xyjiang/">
@@ -34,16 +32,14 @@ Data nerd 🤓 who also dabbles in Web Dev 🌐, Powerlifting 🏋️, and Photo
 <img align="left" alt="VSCO" width="50px" src="https://www.svgrepo.com/show/306943/vsco.svg">
 </a>
 
-<br/>
-
-<b/r>
+<p>&nbsp;</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyjiang970&show_icons=true&theme=tokyonight)
 
-<br/>
+<p>&nbsp;</p>
 
 <img align="left" alt='Last Update Shield' src="https://img.shields.io/github/last-commit/xyjiang970/xyjiang970/main?label=Last%20updated&style=flat">
 
-<br/>
+<p>&nbsp;</p>
 
 📫 Reach me at **xyjiang970@gmail.com**
