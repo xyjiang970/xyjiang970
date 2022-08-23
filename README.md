@@ -23,7 +23,9 @@ Data nerd 🤓 who also dabbles in Web Dev 🌐, Powerlifting 🏋️, and Photo
 <img align="left" alt="MSSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 
 <br>
+
 <br>
+
 <br>
 
 <h2 align="left">Connect with me:</h2>
