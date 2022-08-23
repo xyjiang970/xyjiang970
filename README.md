@@ -13,15 +13,12 @@ Data nerd 🤓 who also dabbles in Web Dev 🌐, Powerlifting 🏋️, and Photo
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/xyjiang/">
-<img align="left" alt="LinkedIn" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
-</a>
-<a href="https://vsco.co/xyjiang970/gallery">
-<img align="left" alt="VSCO" width="50px" src="https://www.svgrepo.com/show/306943/vsco.svg">
+<img alt="LinkedIn" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
+</a> <a href="https://vsco.co/xyjiang970/gallery">
+<img alt="VSCO" width="50px" src="https://www.svgrepo.com/show/306943/vsco.svg">
 </a>
 
 <p>&nbsp;</p>
