@@ -37,6 +37,8 @@ Data nerd 🤓 who also dabbles in Web Dev 🌐, Powerlifting 🏋️, and Photo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyjiang970&show_icons=true&theme=tokyonight)
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img align="left" alt='Last Update Shield' src="https://img.shields.io/github/last-commit/xyjiang970/xyjiang970/main?label=Last%20updated&style=flat">
 
