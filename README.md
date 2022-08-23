@@ -6,7 +6,7 @@
 
 <p align="center">
 Data nerd 🤓 who also dabbles in Web Dev 🌐, Powerlifting 🏋️, and Photography 📸.
-<p>
+</p>
 
 <p>&nbsp;</p>
 
