@@ -34,8 +34,6 @@ Data nerd 🤓 who also dabbles in Web Dev 🌐, Powerlifting 🏋️, and Photo
 <img align="left" alt="VSCO" width="50px" src="https://www.svgrepo.com/show/306943/vsco.svg">
 </a>
 
-<p>&nbsp;</p>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyjiang970&show_icons=true&theme=tokyonight)
 
 <p>&nbsp;</p>
