@@ -23,6 +23,7 @@ Data nerd 🤓 who also dabbles in Web Dev 🌐, Powerlifting 🏋️, and Photo
 <img align="left" alt="MSSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <h2 align="left">Connect with me:</h2>
 <a href="https://www.linkedin.com/in/xyjiang/">
