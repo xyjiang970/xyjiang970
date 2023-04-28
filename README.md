@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Data nerd 🤓 who also dabbles in Web Dev 🌐, Powerlifting 🏋️, and Photography 📸.
+Data nerd 🤓 who also dabbles in Web Dev 🌐 and Photography 📸.
 </p>
 
 
