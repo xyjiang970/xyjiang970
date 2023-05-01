@@ -2,10 +2,6 @@
 <img alt="Hi, I'm Jason" src="https://github.com/xyjiang970/xyjiang970/blob/main/assets/intro.gif">
 </p>
 
-<p align="center">
-Data nerd 🤓 who also dabbles in Web Dev 🌐 and Photography 📸.
-</p>
-
 
 <p>&nbsp;</p>
 
