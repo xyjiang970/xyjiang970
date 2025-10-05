@@ -6,8 +6,6 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55"> Hi, I'm Jason! <img src="https://camo.githubusercontent.com/6a4da679536aef4caa4338bd657dc33b2fc530a54b1fac28f5ca6f36a1a7763a/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f706972617465706172726f742e676966" width="40">
 
----
-
 ### 🚀 My Expertise:
 
 - **Languages, Frameworks, Libraries:**
