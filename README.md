@@ -39,8 +39,7 @@
 
 ### 💻 My Dev Setup:
 
-<img alt="apple" src="https://img.shields.io/badge/Mac OS-white?logo=apple&logoColor=lightgray&style=plastic">
-<img alt="windows" src="https://img.shields.io/badge/Windows OS-white?labelColor=blue&style=plastic">
+<img alt="apple" src="https://img.shields.io/badge/Mac OS-white?logo=apple&logoColor=lightgray&style=plastic"> <img alt="windows" src="https://img.shields.io/badge/Windows OS-white?labelColor=blue&style=plastic">
 <img alt="jupyter_notebooks" src="https://img.shields.io/badge/Jupyter Notebook-white?logo=jupyter&style=plastic">
 <img alt="node.js" src="https://img.shields.io/badge/Node.js-white?logo=node.js&style=plastic">
 <img alt="discord" src="https://img.shields.io/badge/Discord-white?logo=discord&style=plastic">
@@ -80,8 +79,8 @@
 
 <br />
 
-📧 **Email:** xyjiang970@gmail.com
-🌐 **Website:** [https://xyjiang970.github.io/](https://xyjiang970.github.io/)
+- 📧 **Email:** xyjiang970@gmail.com
+- 🌐 **Website:** [https://xyjiang970.github.io/](https://xyjiang970.github.io/)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xyjiang/)
 
