@@ -8,13 +8,13 @@
 
 ### Languages, Frameworks, Libraries:
 
-- <code><img height="20" alt="python-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> **Python:** _NumPy, pandas, Matplotlib, seaborn, Plotly, PySpark, Polars_
-- <code><img height="20" alt="cpp-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> C++
-- <code><img height="20" alt="javascript-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> Javascript
-- <code><img height="20" alt="html-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code> <img height="20" alt="css-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> HTML & CSS
-- <code><img height="20" alt="nodejs-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> node.js
-- <code><img height="13" alt="sas-logo" src="https://www.sas.com/en/news/media-gallery/all-images/sas-logo-blue/_jcr_content/par/image_360101046.img.png/1685459921715.png"></code> SAS
-- <code><img height="20" alt="html-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> SQL
+- <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> **Python:** _NumPy, pandas, Matplotlib, seaborn, Plotly, PySpark, Polars_
+- <code><img height="20" alt="cpp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> C++
+- <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> Javascript
+- <code><img height="20" alt="html-css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="20" alt="css-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> HTML & CSS
+- <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> node.js
+- <code><img height="13" alt="sas" src="https://www.sas.com/en/news/media-gallery/all-images/sas-logo-blue/_jcr_content/par/image_360101046.img.png/1685459921715.png"></code> SAS
+- <code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> SQL
 
 ### Databases & Cloud:
 
@@ -44,7 +44,9 @@
 
 🌐 **Website:** [https://xyjiang970.github.io/](https://xyjiang970.github.io/)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xyjiang/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xyjiang/) -->
+
+<a href="https://www.linkedin.com/in/xyjiang/" target="_blank"><img alt="linkedin" height="35" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/xyjiang/"></a>
 
 </details>
 
@@ -54,4 +56,4 @@
 <br />
 <br />
 
-<img alt='Last Update Shield' src="https://img.shields.io/github/last-commit/xyjiang970/xyjiang970/main?label=Last%20updated&style=plastic">
+<img alt='Last Update Shield' height="35" src="https://img.shields.io/github/last-commit/xyjiang970/xyjiang970/main?label=Last%20updated&style=plastic">
