@@ -39,36 +39,7 @@
 
 ### 💻 My Dev Setup:
 
-<img alt="apple" src="https://img.shields.io/badge/Mac OS-white?logo=apple&logoColor=lightgray&style=plastic"> <img alt="windows" src="https://img.shields.io/badge/Windows OS-white?labelColor=blue&style=plastic">
-<img alt="jupyter_notebooks" src="https://img.shields.io/badge/Jupyter Notebook-white?logo=jupyter&style=plastic">
-<img alt="node.js" src="https://img.shields.io/badge/Node.js-white?logo=node.js&style=plastic">
-<img alt="discord" src="https://img.shields.io/badge/Discord-white?logo=discord&style=plastic">
-<img alt="zsh" src="https://img.shields.io/badge/Zsh-white?logo=iterm2&logoColor=black&style=plastic">
-<img alt="github" src="https://img.shields.io/badge/Github-white?logo=github&logoColor=gray&style=plastic">
-<img alt="vs-code" src="https://img.shields.io/badge/VS Code-white?labelColor=blue&style=plastic">
-<img alt="homebrew" src="https://img.shields.io/badge/Homebrew-white?logo=homebrew&style=plastic">
-<img alt="chocolatey" src="https://img.shields.io/badge/Chocolatey-white?logo=Chocolatey&style=plastic">
-<img alt="npm" src="https://img.shields.io/badge/npm-white?logo=npm&logoColor=lightgray&style=plastic">
-<img alt="postman" src="https://img.shields.io/badge/Postman-white?logo=postman&style=plastic">
-<img alt="docker" src="https://img.shields.io/badge/Docker-white?logo=docker&style=plastic">
-<img alt="google" src="https://img.shields.io/badge/Google-white?logo=google&style=plastic">
-<img alt="youtube" src="https://img.shields.io/badge/Youtube-white?logo=youtube&logoColor=red&style=plastic">
-<img alt="uber-eats" src="https://img.shields.io/badge/Uber Eats-white?logo=ubereats&style=plastic">
-<img alt="chromium" src="https://img.shields.io/badge/Chromium-white?logo=googlechrome&style=plastic">
-<img alt="google-meet" src="https://img.shields.io/badge/Google Meet-white?logo=googlemeet&logoColor=darkgreen&style=plastic">
-<img alt="zoom" src="https://img.shields.io/badge/Zoom-white?logo=zoom&logoColor=navy&style=plastic">
-<img alt="google-sheets" src="https://img.shields.io/badge/Google Sheets-white?logo=googlesheets&style=plastic">
-<img alt="spotify" src="https://img.shields.io/badge/Spotify-white?logo=spotify&style=plastic">
-<img alt="ublock-origin" src="https://img.shields.io/badge/ublock Origin-white?logo=ublockorigin&logoColor=darkred&style=plastic">
-<img alt="ghostery" src="https://img.shields.io/badge/Ghostery-white?logo=ghostery&style=plastic">
-<img alt="wappalyzer" src="https://img.shields.io/badge/Wappalyzer-white?logo=wappalyzer&logoColor=indigo&style=plastic">
-<img alt="nord-vpn" src="https://img.shields.io/badge/Nord VPN-white?logo=nordvpn&style=plastic">
-<img alt="reddit" src="https://img.shields.io/badge/Reddit-white?logo=reddit&style=plastic">
-<img alt="pypi" src="https://img.shields.io/badge/PyPI-white?logo=pypi&style=plastic">
-<img alt="mingww64" src="https://img.shields.io/badge/MinGW w64-white?logo=mingww64&logoColor=lightgray&style=plastic">
-<img alt="dotenv" src="https://img.shields.io/badge/.ENV-white?logo=dotenv&logoColor=brightyellow&style=plastic">
-<img alt="keeper" src="https://img.shields.io/badge/Keeper-white?logo=keeper&style=plastic">
-<img alt="stack-overflow" src="https://img.shields.io/badge/Stack Overflow-white?logo=stackoverflow&style=plastic">
+<img alt="apple" src="https://img.shields.io/badge/Mac OS-white?logo=apple&logoColor=lightgray&style=plastic"> <img alt="windows" src="https://img.shields.io/badge/Windows OS-white?labelColor=blue&style=plastic"> <img alt="jupyter_notebooks" src="https://img.shields.io/badge/Jupyter Notebook-white?logo=jupyter&style=plastic"> <img alt="node.js" src="https://img.shields.io/badge/Node.js-white?logo=node.js&style=plastic"> <img alt="discord" src="https://img.shields.io/badge/Discord-white?logo=discord&style=plastic"> <img alt="zsh" src="https://img.shields.io/badge/Zsh-white?logo=iterm2&logoColor=black&style=plastic"> <img alt="github" src="https://img.shields.io/badge/Github-white?logo=github&logoColor=gray&style=plastic"> <img alt="vs-code" src="https://img.shields.io/badge/VS Code-white?labelColor=blue&style=plastic"> <img alt="homebrew" src="https://img.shields.io/badge/Homebrew-white?logo=homebrew&style=plastic"> <img alt="chocolatey" src="https://img.shields.io/badge/Chocolatey-white?logo=Chocolatey&style=plastic"> <img alt="npm" src="https://img.shields.io/badge/npm-white?logo=npm&logoColor=lightgray&style=plastic"> <img alt="postman" src="https://img.shields.io/badge/Postman-white?logo=postman&style=plastic"> <img alt="docker" src="https://img.shields.io/badge/Docker-white?logo=docker&style=plastic"> <img alt="google" src="https://img.shields.io/badge/Google-white?logo=google&style=plastic"> <img alt="youtube" src="https://img.shields.io/badge/Youtube-white?logo=youtube&logoColor=red&style=plastic"> <img alt="uber-eats" src="https://img.shields.io/badge/Uber Eats-white?logo=ubereats&style=plastic"> <img alt="chromium" src="https://img.shields.io/badge/Chromium-white?logo=googlechrome&style=plastic"> <img alt="google-meet" src="https://img.shields.io/badge/Google Meet-white?logo=googlemeet&logoColor=darkgreen&style=plastic"> <img alt="zoom" src="https://img.shields.io/badge/Zoom-white?logo=zoom&logoColor=navy&style=plastic"> <img alt="google-sheets" src="https://img.shields.io/badge/Google Sheets-white?logo=googlesheets&style=plastic"> <img alt="spotify" src="https://img.shields.io/badge/Spotify-white?logo=spotify&style=plastic"> <img alt="ublock-origin" src="https://img.shields.io/badge/ublock Origin-white?logo=ublockorigin&logoColor=darkred&style=plastic"> <img alt="ghostery" src="https://img.shields.io/badge/Ghostery-white?logo=ghostery&style=plastic"> <img alt="wappalyzer" src="https://img.shields.io/badge/Wappalyzer-white?logo=wappalyzer&logoColor=indigo&style=plastic"> <img alt="nord-vpn" src="https://img.shields.io/badge/Nord VPN-white?logo=nordvpn&style=plastic"> <img alt="reddit" src="https://img.shields.io/badge/Reddit-white?logo=reddit&style=plastic"> <img alt="pypi" src="https://img.shields.io/badge/PyPI-white?logo=pypi&style=plastic"> <img alt="mingww64" src="https://img.shields.io/badge/MinGW w64-white?logo=mingww64&logoColor=lightgray&style=plastic"> <img alt="dotenv" src="https://img.shields.io/badge/.ENV-white?logo=dotenv&logoColor=brightyellow&style=plastic"> <img alt="keeper" src="https://img.shields.io/badge/Keeper-white?logo=keeper&style=plastic"> <img alt="stack-overflow" src="https://img.shields.io/badge/Stack Overflow-white?logo=stackoverflow&style=plastic">
 
 ---
 
