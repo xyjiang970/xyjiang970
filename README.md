@@ -8,11 +8,13 @@
 
 ### Languages, Frameworks, Libraries:
 
+<!-- <img height="22" alt="python-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> -->
+
 <img alt="python" height="35" src="https://img.shields.io/badge/‎-Python-F5F5F5?labelColor=white&logo=python&style=for-the-badge">
 
-- <img alt="pandas" height="25" src="https://img.shields.io/badge/‎-pandas-F5F5F5?labelColor=white&logo=pandas&logoColor=lightgray&style=flat"> <img alt="numpy" height="25" src="https://img.shields.io/badge/‎-NumPy-F5F5F5?labelColor=white&logo=numpy&logoColor=lightgray&style=flat"> <img alt="seaborn" height="25" src="https://img.shields.io/badge/seaborn-F5F5F5?labelColor=white&logoColor=lightgray&style=flat"> <img alt="matplotlib" height="25" src="https://img.shields.io/badge/Matplotlib-F5F5F5?labelColor=white&logoColor=lightgray&style=flat">
+- <img alt="pandas" height="25" src="https://img.shields.io/badge/‎-pandas-F5F5F5?labelColor=white&logo=pandas&logoColor=navy&style=flat"> <img alt="numpy" height="25" src="https://img.shields.io/badge/‎-NumPy-F5F5F5?labelColor=white&logo=numpy&logoColor=blue&style=flat"> <img alt="seaborn" height="25" src="https://img.shields.io/badge/seaborn-F5F5F5?labelColor=lightblue&logoColor=lightgray&style=flat"> <img alt="matplotlib" height="25" src="https://img.shields.io/badge/Matplotlib-F5F5F5?labelColor=navy&logoColor=lightgray&style=flat"> <img alt="plotly" height="25" src="https://img.shields.io/badge/‎-plotly-F5F5F5?labelColor=white&logo=plotly&logoColor=black&style=flat"> <img alt="pyspark" height="25" src="https://img.shields.io/badge/PySpark-F5F5F5?labelColor=orange&logoColor=lightgray&style=flat"> <img alt="polars" height="25" src="https://img.shields.io/badge/‎-Polars-F5F5F5?labelColor=white&logo=polars&logoColor=blue&style=flat">
 
-<img height="22" alt="python-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> `Python (pandas, Numpy, Matplotlib, plotly, seaborn, PySpark, Polars)`
+<img height="20" alt="python-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img alt="python" src="https://img.shields.io/badge/Python-F5F5F5?labelColor=white&style=for-the-badge">
 
 <img height="20" alt="cpp-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> `C++`
 <img height="20" alt="javascript-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> `JavaScript`
