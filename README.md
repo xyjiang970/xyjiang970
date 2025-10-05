@@ -6,24 +6,29 @@
 
 ### 🚀 My Expertise:
 
-- **Languages, Frameworks, Libraries:**
-  <img alt="python" height="25" src="https://img.shields.io/badge/‎-Python-white?labelColor=white&logo=python&style=flat-square">
+**Languages, Frameworks, Libraries:**
 
-  - <img height="22" alt="python-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> `Python (pandas, Numpy, Matplotlib, plotly, seaborn, PySpark, Polars)`
-  - <img height="20" alt="cpp-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> `C++`
-  - <img height="20" alt="javascript-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> `JavaScript`
-  - <img height="20" alt="nodejs-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> `node.js`
-  - <img height="13" alt="sas-logo" src="https://www.sas.com/en/news/media-gallery/all-images/sas-logo-blue/_jcr_content/par/image_360101046.img.png/1685459921715.png"> `SAS`
-  - <img height="20" alt="html-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> `HTML` & <img height="20" alt="css-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> `CSS`
-  - <img height="20" alt="html-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"> `SQL`
+<img alt="python" height="25" src="https://img.shields.io/badge/‎-Python-F5F5F5?labelColor=white&logo=python&style=flat-square">
+
+- <img alt="pandas" height="25" src="https://img.shields.io/badge/‎-pandas-F5F5F5?labelColor=white&logo=pandas&logoColor=lightgray&style=flat-square">
+
+<img height="22" alt="python-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> `Python (pandas, Numpy, Matplotlib, plotly, seaborn, PySpark, Polars)`
+
+<img height="20" alt="cpp-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> `C++`
+<img height="20" alt="javascript-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> `JavaScript`
+<img height="20" alt="nodejs-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> `node.js`
+<img height="13" alt="sas-logo" src="https://www.sas.com/en/news/media-gallery/all-images/sas-logo-blue/_jcr_content/par/image_360101046.img.png/1685459921715.png"> `SAS`
+<img height="20" alt="html-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> `HTML` & <img height="20" alt="css-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> `CSS`
+<img height="20" alt="html-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"> `SQL`
 
 <br />
 
-- **Databases & Cloud:**
-  - <img height="17" alt="postgressql-logo" src="https://www.postgresql.org/media/img/about/press/elephant.png"> `PostgreSQL`,
-  - <img height="20" alt="mssqlserver-logo" src="https://img.icons8.com/?size=1200&id=laYYF3dV0Iew&format=png"> `MS SQL Server`,
-  - <img width="17" alt="googlebigquery-logo" src="https://www.gstatic.com/bricks/image/702bc723dcfcddf8942bb459be20163106a5f64ed91404df38c73ca955f96260.svg"> `Google BigQuery`,
-  - <img height="16" alt="aws-logo" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png"> `AWS (S3, Athena, EC2)`
+**Databases & Cloud:**
+
+- <img height="17" alt="postgressql-logo" src="https://www.postgresql.org/media/img/about/press/elephant.png"> `PostgreSQL`
+- <img height="20" alt="mssqlserver-logo" src="https://img.icons8.com/?size=1200&id=laYYF3dV0Iew&format=png"> `MS SQL Server`
+- <img width="17" alt="googlebigquery-logo" src="https://www.gstatic.com/bricks/image/702bc723dcfcddf8942bb459be20163106a5f64ed91404df38c73ca955f96260.svg"> `Google BigQuery`
+- <img height="16" alt="aws-logo" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png"> `AWS (S3, Athena, EC2)`
 
 ---
 
