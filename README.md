@@ -2,13 +2,12 @@
 <img alt="Hi, I'm Jason" src="https://github.com/xyjiang970/xyjiang970/blob/main/assets/intro.gif">
 </p> -->
 
-## Greetings! 👋
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55"> Hi, I'm Jason! <img src="https://camo.githubusercontent.com/6a4da679536aef4caa4338bd657dc33b2fc530a54b1fac28f5ca6f36a1a7763a/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f706972617465706172726f742e676966" width="40">
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55"> Hi 👋, I'm Jason! <img src="https://camo.githubusercontent.com/6a4da679536aef4caa4338bd657dc33b2fc530a54b1fac28f5ca6f36a1a7763a/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f706972617465706172726f742e676966" width="40">
 
 ### 🚀 My Expertise:
 
 - **Languages, Frameworks, Libraries:**
+  <img alt="python" src="https://img.shields.io/badge/‎-Python-white?logo=python&style=flat-square">
   - <img height="22" alt="python-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> `Python (pandas, Numpy, Matplotlib, plotly, seaborn, PySpark, Polars)`
   - <img height="20" alt="cpp-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> `C++`
   - <img height="20" alt="javascript-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> `JavaScript`
@@ -22,7 +21,7 @@
 - **Databases & Cloud:**
   - <img height="17" alt="postgressql-logo" src="https://www.postgresql.org/media/img/about/press/elephant.png"> `PostgreSQL`,
   - <img height="20" alt="mssqlserver-logo" src="https://img.icons8.com/?size=1200&id=laYYF3dV0Iew&format=png"> `MS SQL Server`,
-  - <img height="20" alt="googlebigquery-logo" src="https://www.gstatic.com/bricks/image/702bc723dcfcddf8942bb459be20163106a5f64ed91404df38c73ca955f96260.svg"> `Google BigQuery`,
+  - <img width="17" alt="googlebigquery-logo" src="https://www.gstatic.com/bricks/image/702bc723dcfcddf8942bb459be20163106a5f64ed91404df38c73ca955f96260.svg"> `Google BigQuery`,
   - <img height="16" alt="aws-logo" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png"> `AWS (S3, Athena, EC2)`
 
 ---
