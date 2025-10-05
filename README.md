@@ -7,7 +7,8 @@
 ### 🚀 My Expertise:
 
 - **Languages, Frameworks, Libraries:**
-  <img alt="python" src="https://img.shields.io/badge/‎-Python-white?logo=python&style=flat-square">
+  <img alt="python" height="25" src="https://img.shields.io/badge/‎-Python-white?labelColor=white&logo=python&style=flat-square">
+
   - <img height="22" alt="python-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> `Python (pandas, Numpy, Matplotlib, plotly, seaborn, PySpark, Polars)`
   - <img height="20" alt="cpp-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> `C++`
   - <img height="20" alt="javascript-logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> `JavaScript`
